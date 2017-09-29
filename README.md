@@ -1,4 +1,4 @@
 #
-Damir Pulatov
-COSC 2030
+Damir Pulatov  
+COSC 2030  
 Lab 03: Numeric Erros
